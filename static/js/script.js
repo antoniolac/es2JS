@@ -17,6 +17,7 @@ let i = 0;
 
 //variabile di input
 let guess;
+console.log("indovina il numero, hai 5 tentativi");
 while (i < 5 && guess !== nRandom ) {
 
     do {
