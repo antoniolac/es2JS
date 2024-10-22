@@ -26,8 +26,18 @@
     height: 60px;
     font-size: 24px;
     line-height: auto;
-    background-color: #3AE3A8;
     margin-top: 20px;
     border: none;
     border-radius: 5px;
+}
+
+.b-green{
+    background-color: #3AE3A8;
+}
+
+.b-yellow{
+    background-color: rgb(219, 219, 33);
+}
+.b-red{
+    background-color: red;
 }

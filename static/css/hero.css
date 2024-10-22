@@ -3,5 +3,20 @@
     flex-direction: column;
     align-items: center;
     height: 100vh;
+}
+
+.hero-green{
     background-color: #CCFFC5;
+}
+
+.hero-yellow{
+    background-color: yellow;
+}
+
+.hero-red{
+    background-color: red;
+}
+
+.transition{
+    transition: all 2s;
 }
